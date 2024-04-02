@@ -8,5 +8,5 @@
 
 
 >|id|name|Repo|Demo|
->|---|---|---|---|
->|1|Slider|2|3|
+>|:------|--------|:--------|:--------:|
+>|1|Slider|[Here](https://github.com/barmajli2/Slider-Task)|[Visit](https://slider-task-seven.vercel.app/)|
